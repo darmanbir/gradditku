@@ -1,3 +1,4 @@
+/* javasscript untuk graddit menggantikan yang lama by https://matematika-gp.blogspot.com */
 div.ffbs_micro{display:inline-block;margin-left:1em;}
 span.ffbs_star{color:#808080;font-size:1.2em;}
 span.ffbs_star_set{color:#d07000;font-size:1.2em;}
